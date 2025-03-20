@@ -1,0 +1,581 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+    .container{
+        max-width: 1380px;
+    }
+    .header-logo a img {
+        width: 250px;
+    }
+ 
+    .mainmenu-nav {
+        position: relative;
+    }
+    .mainmenu-nav ul li a {
+        font-size: 18px;
+    }
+    .about-top-text p {
+        font-size: 22px;
+    }
+    .expertise-card h3 {
+        font-size: 44px;
+    }
+    .about-logo img {
+        max-width: 200px;
+    }
+    .service-content {
+        max-width: 500px;
+    }
+    .service-content h2 {   
+        font-size: 50px;
+    }
+    .expertise-card {
+        margin-bottom: 60px;
+    }
+    .expertise-card p {
+        font-size: 20px;
+    }
+    .service-card-title h2 {
+        font-size: 36px;
+    }
+    .service-card-title img {
+        width: 42px;
+        flex-shrink: 0;
+    }
+    .service-card p {
+        font-size: 17px;
+    }
+    .contact-area-title h2 {
+        font-size: 45px;
+    }
+    .single-filed input {
+        font-size: 17px;
+    }
+    .single-filed textarea {
+        font-size: 17px;
+    }
+    .single-filed {
+        margin-bottom: 15px;
+    }
+
+
+}
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+    .about-top-text p {
+        font-size: 20px;
+    }
+    .about-logo img {
+        max-width: 200px;
+    }
+    .service-content h2 {   
+        font-size: 50px;
+    }
+    .service-card p {
+        font-size: 16px;
+    }
+    .hero-wrapper h1 {
+        font-size: 54px;
+    }
+    .hero-wrapper {
+        max-width: 450px;
+    }
+    .expertise-title h2 {
+        font-size: 45px;
+    }
+    .expertise-card h3 {
+        font-size: 40px;
+    }
+    .expertise-card p {
+        font-size: 18px;
+    }
+    .service-content h2 {
+        font-size: 40px;
+    }
+    .service-content-wrapper {
+        padding: 30px;
+    }
+    .btn-common {
+        padding: 10px 36px;
+        font-size: 18px;
+    }
+    .service-content p {
+        font-size: 17px;
+        line-height: 145%;
+    }
+    .service-content span {
+        margin-bottom: 15px;
+        font-size: 18px;
+    }
+    .service-wrapper {
+        gap: 0 60px;
+    }
+    .contact-info ul li {
+        font-size: 17px;
+        margin-bottom: 10px;
+    }
+    .contact-area-title {
+        margin-bottom: 15px;
+    }
+    .contact-form {
+        margin-top: 30px;
+    }
+    .single-filed input {
+        height: 45px;
+    }
+    .single-filed textarea {
+        height: 90px;
+        font-size: 18px;
+    }
+ 
+
+
+}
+
+
+
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 768px) and (max-width: 1199px) {
+    .header-logo a img {
+        width: 170px;
+    }
+    .mainmenu-nav ul li a {
+        font-size: 16px
+    }
+    .header-area {
+        padding: 20px 0;
+    }
+    .hero-wrapper h1 {
+        font-size: 50px;
+    }
+    .hero-wrapper {
+        max-width: 400px;
+    }
+    .hero-area {
+        height: 550px;
+    }
+    .btn-common {
+        padding: 10px 36px;
+        font-size: 17px;
+    }
+    .about-logo img {
+        max-width: 180px;
+    }
+    .about-top-text p {
+        font-size: 18px;
+    }
+    .expertise-title h2 {
+        font-size: 40px;
+    }
+    .expertise-card h3 {
+        font-size: 32px;
+        gap: 0 15px;
+    }
+    .expertise-card p {
+        font-size: 15px;
+    }
+    .expertise-card {
+        margin-bottom: 50px;
+    }
+    .services-top-area {
+        grid-template-columns: repeat(2, 1fr);
+        height: auto;
+    }
+    .service-content-wrapper {
+        padding: 50px 30px;
+    }
+    .service-content span {
+        margin-bottom: 15px;
+        font-size: 16px;
+    }
+    .service-content h2 {
+        font-size: 30px;
+        margin-bottom: 15px;
+        line-height: 110%;
+    }
+    .service-content p {
+        font-size: 16px;
+        line-height: 140%;
+        margin-bottom: 20px;
+    }
+    .service-wrapper {
+        gap: 0 50px;
+    }
+    .service-card-title img {
+        width: 40px;
+        flex-shrink: 0;
+    }
+    .service-card-title h2 {
+        font-size: 28px;
+    }
+    .service-card-title {
+        margin-bottom: 10px;
+    }
+    .service-card p {
+        font-size: 16px;
+        line-height: 132%;
+    }
+    .services-bottom-area {
+        height: auto;
+        padding: 50px 0;
+    }
+    .contact-area-title h2 {
+        font-size: 40px;
+    }
+    .contact-area-title {
+        margin-bottom: 20px;
+    }
+    .contact-left p {
+        font-size: 20px;
+    }
+    .contact-info ul li {
+        font-size: 16px;
+    }
+    .contact-form {
+        margin-top: 25px;
+    }
+    .single-filed input {
+        height: 45px;
+        padding: 8px 16px;
+        font-size: 16px;
+    }
+    .single-filed textarea {
+        width: 100%;
+        height: 80px;
+        padding: 12px 16px;
+        font-size: 16px;
+    }
+    .submit-btn button {
+        height: 45px;
+        width: 150px;
+        font-size: 16px;
+    }
+    .single-filed {
+        margin-bottom: 14px;
+    }
+    .about-area {
+        padding-bottom: 20px;
+    }
+    .about-victor {
+        margin-top: 0px;
+        margin-bottom: 60px;
+    }
+    
+
+
+}
+ 
+
+
+
+
+
+/* LG Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .hero-area {
+        height: auto;
+    }
+    .hero-top {
+        height: 450px;
+    }
+    .hero-bottom {
+        height: auto;
+    }
+    .hero-wrapper h1 {
+        font-size: 45px;
+    }
+    .hero-btn {
+        margin-top: 20px;
+    }
+    .about-logo img {
+        max-width: 90%;
+    }
+    .about-top-text p {
+        font-size: 16px;
+    }
+    .expertise-title{
+        margin-bottom: 60px;
+    }
+    .expertise-title br{
+        display: none;
+    }
+    .expertise-card p {
+        font-size: 18px;
+    }
+    .expertise-card h3 img {
+        width: 20px;
+    }
+    .service-wrapper {
+        gap: 0 20px;
+    }
+    .service-card-title h2 {
+        font-size: 22px;
+    }
+    .service-card-title img {
+        width: 32px;
+        flex-shrink: 0;
+    }
+    .service-card p {
+        font-size: 14px;
+        line-height: 132%;
+    }
+    .contact-left {
+        max-width: 100%;
+        margin-bottom: 50px;
+    }
+    .map-wrap iframe {
+        height: 420px;
+    }
+    .contact-area {
+        padding-bottom: 70px;
+    }
+    .hero-wrapper {
+        max-width: 350px;
+    }
+    .about-area{
+        padding-top: 0;
+    }
+
+
+}
+
+
+
+
+
+/* SM Small Device :320px. */
+@media only screen and (max-width: 767px) {
+    .service-wrapper {
+        display: block;
+    }
+    .mainmenu-nav {
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: auto;
+        padding: 20px;
+        background: #fff;
+        z-index: 99;
+        opacity: 0;
+        visibility: hidden;
+        transition: .3s;
+        padding-top: 150px;
+        padding-bottom: 60px;
+    }
+    .mainmenu-nav ul {
+        gap: 20px;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+    .mainmenu-nav ul li{
+        width: 100%;
+        text-align: center;
+    }
+    .mainmenu-nav.active{
+        opacity: 1;
+        visibility: visible;
+
+    }
+    .services-top-area {
+        display: block;
+        height: auto;
+    }
+    .service-bg {
+        height: 270px;
+    }
+    .service-content-wrapper {
+        padding: 40px 20px;
+        display: block;
+    }
+    .hero-top {
+        height:535px;
+        background-image: url(../img/hero-mobile.png);
+        background-color: #fff;
+        background-position: center bottom;
+        display: block;
+        padding-top: 40px;
+    }
+    .hero-wrapper h1 {
+        font-size: 40px;
+    }
+    .header-logo a img {
+        width: 230px;
+    }
+    .header-logo{
+        position: relative;
+        z-index: 9999;
+    }
+    .btn-common {
+        padding: 8px 24px;
+        font-size: 18px;
+    }
+    .about-area {
+        padding: 40px 0;
+    }
+    .about-logo img {
+        max-width: 130px;
+    }
+    .about-logo {
+        margin-bottom: 30px;
+    }
+    .about-top-text p {
+        font-size: 17px;
+    }
+    .about-victor {
+        margin-top: 0px;
+        margin-bottom: 40px;
+    }
+    .hero-area {
+        padding-top: 0px;
+    }
+    .expertise-title h2 {
+        font-size: 32px;
+    }
+    .expertise-title{
+        margin-bottom: 30px;
+    }
+    .expertise-card h3 {
+        font-size: 26px;
+        margin-bottom: 15px;
+        gap: 0 15px;
+    }
+    .expertise-card h3 img {
+        width: 15px;
+    }
+    .expertise-card p {
+        font-size: 16px;
+    }
+    .expertise-card {
+        margin-bottom: 25px;
+        max-width: 460px;
+    }
+    .service-content span {
+        margin-bottom: 15px;
+        font-size: 16px;
+    }
+    .service-content h2 {
+        font-size: 32px;
+        margin-bottom: 15px;
+    }
+    .service-content p {
+        font-size: 16px;
+    }
+    .container{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .service-card-title h2 {
+        font-size: 26px;
+    }
+    .service-card-title img {
+        width: 30px;
+    }
+    .service-card-title {
+        margin-bottom: 10px;
+    }
+    .service-card{
+        margin-bottom: 40px;
+    }
+    .services-bottom-area {
+        height: auto;
+        padding: 40px 0;
+        padding-bottom: 0;
+    }
+    .header-area {
+        padding: 20px 0;
+    }
+    .service-card p {
+        font-size: 16px;
+    }
+    .service-card p  br{
+        display: none;
+    }
+    .contact-area-title h2 {
+        font-size: 32px;
+    }
+    .contact-left p {
+        font-size: 20px;
+    }
+    .contact-info ul li {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .single-filed input {
+        height: 50px;
+        font-size: 15px;
+    }
+    .single-filed textarea {
+        padding: 12px 20px;
+        font-size: 15px;
+    }
+    .submit-btn button {
+        height: 40px;
+        width: 135px;
+        font-size: 16px;
+    }
+    .contact-wrapper {
+        padding-top: 50px;
+    }
+    .contact-area .container{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .contact-left{
+        padding: 0 20px;
+        margin-bottom: 50px;
+    }
+    .contact-area-title{
+        padding: 0 20px;
+    }
+    .contact-area{
+        padding-bottom: 0;
+        overflow: hidden;
+    }
+    .map-wrap iframe {
+        height: 250px;
+        margin-bottom: -7px;
+    }
+    footer p {
+        font-size: 15px;
+    }
+    footer {
+        padding: 15px 0;
+    }
+    .menu-trigger {
+        display: block;
+    }
+    .hero-bottom {
+        height: auto;
+    }
+    .hero-area {
+        height: auto;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+  
+    
+    
+ 
+}
